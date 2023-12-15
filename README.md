@@ -21,7 +21,7 @@
   </div>
 <p><b>Technology has the power to make the world a better place</b></p>
 </div>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=516FA7&random=true&width=435&separator=%3C&center=true&lines=System.out.println(%22Hello%2C+World!%22);%3Cprint(%22Hello%2C+World!%22)%3Cprintf(%22Hello%2C+World!%22);)](https://github.com/caodonghui426)
+
 ## Hi, Nice to meet you!
 - 👋 Hi, I’m @caodonghui426
 - 👀 I ’m interest in Java, server development, database, computer network, operating system, AI, etc.
