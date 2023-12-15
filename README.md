@@ -1,1 +1,1 @@
-[![caodonghui426](https://github-readme-stats.vercel.app/api?username=caodonghui426)](https://github.com/caodonghui426/github-readme-stats)
+![caodonghui426's GitHub stats](https://github-readme-stats.vercel.app/api?username=caodonghui426&show_icons=true&theme=radical)
