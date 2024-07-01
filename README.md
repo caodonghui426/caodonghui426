@@ -23,8 +23,8 @@
 
 ## Hi, Nice to meet you!
 - 👋 Hi, I’m @caodonghui426
-- 👀 I ’m interest in Java, server development, database, computer network, operating system, AI, etc.
-- 🌱 I’m currently learning SpringBoot, AI.
+- 👀 I ’m interest in Go, Java, server development, database, computer network, operating system, AI, etc.
+- 🌱 I’m currently learning Gin, SpringBoot, AI.
 - 📫 How to reach me? Email: cao_dong_hui@163.com
 
 ![caodonghui426's GitHub stats](https://github-readme-stats.vercel.app/api?username=caodonghui426&show_icons=true&theme=transparent)
